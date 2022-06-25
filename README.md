@@ -2,6 +2,8 @@
 
 Assignments in **SNU ECE Computer Architecture (430.322)** lecture, at 2021 autumn.
 
+Implemented various versions of CPU of TSC instruction set architecture.
+
 <h2><a href="/src/Single%20Cycle%20CPU">Single Cycle CPU</a></h2>
 
 **Single cycle CPU** of TSC instruction set architecture.
