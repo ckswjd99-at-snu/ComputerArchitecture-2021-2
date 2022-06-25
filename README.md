@@ -1,6 +1,6 @@
 # TSC-CPU
 
-Various versions of CPU of TSC instruction set architecture.
+Assignments in **SNU ECE Computer Architecture (430.322)** lecture, at 2021 autumn.
 
 <h2><a href="/src/Single%20Cycle%20CPU">Single Cycle CPU</a></h2>
 
