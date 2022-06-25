@@ -1,4 +1,4 @@
-# TSC-CPU
+# SNUCA 2021-2
 
 Assignments in **SNU ECE Computer Architecture (430.322)** lecture, at 2021 autumn.
 
